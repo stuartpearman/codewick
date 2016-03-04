@@ -1,0 +1,21 @@
+{
+  "name": "auth0-nodejs-regular-webapp-sample",
+  "description": "Auth0 + NodeJS Regular WebApp seed",
+  "main": "",
+  "authors": [
+    "Auth0"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.6"
+  }
+}
